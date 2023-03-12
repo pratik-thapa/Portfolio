@@ -1,0 +1,94 @@
+@media(max-width:481px) {
+   .body{
+    overflow-x: hiddens;
+   }
+.banner{
+    h1{
+        font-size: 16px !important;
+    }
+
+    h2 {
+        font-size: 11px !important;
+    }
+
+}   
+
+    nav,.polo{
+        display: none;
+    }
+
+    .respon-nav {
+        display: block;
+       ul{
+        border-bottom: 2px solid black;
+       }
+    }
+
+    .patch {
+        display: none;
+    }
+
+    .geo{
+        img{
+            display: none;
+        }      
+    }
+    .banner {
+        padding: 0;
+
+        h2{
+         font-size: 17px;   
+        }
+    }
+
+    .about{
+        margin-top: 0 ;
+    }
+    .box {
+        margin: auto;
+        width: 100% !important;
+        img {
+            width: 200px !important;
+        }
+
+        .box1 ,.box2,.box3 {
+            height:253px;
+            width: 249px;
+        }
+    }
+
+    .projects, .contact,.skills,.about {
+        margin: auto;
+          h3 {
+            font-size: 62px;
+            &::after {
+                font-size: 20px;
+                top: 25%;
+                left: 35%;
+                border-bottom: none;
+            }
+        }
+    }
+    .info{
+        width: 90%;
+        margin: auto;
+    }
+    .one{
+        margin: auto;
+        margin-bottom: 1rem;
+        width: 288px;
+        img{
+            height: 295px !important;
+        }
+    }
+}
+
+@media (min-width:481px) and (max-width:768px) {
+    .respon-nav {
+        display: block;
+    }
+
+    nav {
+        display: none;
+    }
+}
