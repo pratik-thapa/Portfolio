@@ -1,6 +1,16 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
+
+- 🔭 I’m currently working on **AdbreakMedia**
+
+- 🌱 I’m currently learning **Nextjs**
+
+- 👨‍💻 All of my projects are available at [prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app)
+
+- 💬 Ask me about **react,sass,html,css,bootstrap,js**
+
+- 📫 How to reach me **prateekthapa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
