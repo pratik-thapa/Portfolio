@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
 
-🔭 I’m currently working as Frontend Developer at **AdbreakMedia**
+🔭 I’m currently working as Frontend Developer at **Adbreak Media**
 
 🌱 I’m currently learning **Nextjs**
 
