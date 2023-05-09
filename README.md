@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pratik Thapa</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
+<div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0EnCBvmfBYpPlDOjjE4pPp&ust=1683746739298000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCP98P76P4CFQAAAAAdAAAAABAK" height="200" width="200"
+</div> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
 
 - 🔭 I’m currently working as Frontend Developer at **AdbreakMedia**
