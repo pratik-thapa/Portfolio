@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <div align="center">
-<img src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)" height="250" width="400"
+<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" height="250" width="400"
 </div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
