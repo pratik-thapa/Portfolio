@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Prateek Thapa</h1>
-<h3 align="center">A passionate frontend developer, based in Nepal..</h3>
+<h3 align="center">A passionate frontend developer, based in Nepal.</h3>
 
 <div align="center">
 <img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" height="250" width="400"
