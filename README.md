@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
 
-🔭 I’m currently working as Frontend Developer at **AdbreakMedia**
+<p align="left"> 🔭 I’m currently working as Frontend Developer at **AdbreakMedia**</p>
 
-🌱 I’m currently learning **Nextjs**
+<p align="left">🌱 I’m currently learning **Nextjs**</p>
 
-👨‍💻 All of my projects are available at [prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app)
+<p align="left">👨‍💻 All of my projects are available at [prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app)</p>
 
-💬 Ask me about **react,sass,html,css,bootstrap,js**
+<p align="left">💬 Ask me about **react,sass,html,css,bootstrap,js**</p>
 
-📫 How to reach me **prateekthapa@gmail.com**
+<p align="left">📫 How to reach me **prateekthapa@gmail.com**</p>
 
 <h3 align="left">Connect with me:/>
 <p align="left">
