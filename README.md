@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer, based in Nepal..</h3>
 
 <div align="center">
-<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" height="350" width="600"
+<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" height="350" width="600"
 </div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-thapa" /> </p>
