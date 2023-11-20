@@ -11,7 +11,7 @@
 
 <p align="left">🌱 I’m currently learning **Nextjs**</p>
 
-<p align="left">👨‍💻 All of my projects are available at [prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app)</p>
+<p align="left">👨‍💻 All of my projects are available at <a href="prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app">[prateek-thapa-portfolio.netlify.app](prateek-thapa-portfolio.netlify.app)</a> </p>
 
 <p align="left">💬 Ask me about **react,sass,html,css,bootstrap,js**</p>
 
